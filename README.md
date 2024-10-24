@@ -1,1 +1,2 @@
-# CTF.github.io
+# CTF Challenge List
+## Nicole Chbeir and Chloe Stogsdill
